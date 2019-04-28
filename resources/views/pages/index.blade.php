@@ -8,6 +8,6 @@
   </head>
   <body>
     <h1>Welcome To Laravel</h1>
-    <p>This is the about page</p>  
+    <p>This is a Laravel App</p>  
   </body>
 </html>
